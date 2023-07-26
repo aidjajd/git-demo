@@ -9,3 +9,4 @@ pull test！
 pull test！
 pull test！
 push test~~~~~
+clone test~~~~~~~~~~
